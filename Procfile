@@ -1,1 +1,1 @@
-web: node src/fullstack/server.js
+web: node ./Server.js
